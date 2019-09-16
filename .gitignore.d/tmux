@@ -2,3 +2,4 @@
 !/.gitignore.d
 !/.gitignore.d/tmux
 !/.tmux.conf
+!/.tmux-theme.conf
